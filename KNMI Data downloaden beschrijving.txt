@@ -1,0 +1,7 @@
+1. Ga naar: http://projects.knmi.nl/klimatologie/daggegevens/selectie.cgi
+
+2. Selecteer Elementen die je wilt downloaden
+
+3. Selecteer een station (als je alle stations selecteerd kan je een Memory probleem krijgen)
+
+4. Click 'Download data set'
