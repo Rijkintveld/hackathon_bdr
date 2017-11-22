@@ -1,0 +1,9 @@
+1. Ga naar https://opendata.cbs.nl/dataportaal/portal.html?_la=nl&_catalog=CBS
+
+2. Kies thema (bijvoorbeeld Industrie en energie/Energie/Elektriciteit en warmte/Elektriciteit; aanbod en verbruik
+
+3. Klik links in beeld op StatLine App
+
+4. Bekijk de preview en klik rechtsboven op het download icoontje
+
+5. Kies hoe je het wilt downloaden (ik koos voor CSV volgens tabelindeling)
